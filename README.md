@@ -7,9 +7,9 @@
 - Networking: Cisco, Wireshark, Nmap
 - Sistemas: Windows / Linux
 - Programación: C++, Python, HTML/CSS
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+<p align="center">
+  <img src="wall.png" alt="Juan Cyber Puppet Banner" width="100%">
+</p>
 
 ## 📫 Contacto
 - LinkedIn: (tu link)
