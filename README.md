@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wall.jpg" alt="Juan Cyber Puppet Banner" width="100%">
+  <img src="wall.jpg" alt="Juan Cyber Puppet Banner" width="70%">
 </p>
 
 <h1 align="center">👋 Hola, soy Juan</h1>
