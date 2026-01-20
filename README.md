@@ -27,16 +27,10 @@ Me gusta aprender de forma práctica, crear laboratorios, hacer troubleshooting 
 ✅ **Sistemas:** Windows / Linux  
 ✅ **Programación:** C++, Python, HTML/CSS  
 
----
 
-<p align="center">
-  <img src="wall.jpg" alt="Juan Cyber Puppet" width="700">
-</p>
-
----
 
 ## 🧩 Proyectos destacados
-📌 *(Aquí puedes poner enlaces a tus repos)*  
+
 - 🔐 Proyecto de redes y análisis de tráfico  
 - 🖥️ Scripts de automatización en Linux  
 - 🧪 Laboratorios de seguridad / OSINT educativo  
@@ -44,5 +38,5 @@ Me gusta aprender de forma práctica, crear laboratorios, hacer troubleshooting 
 ---
 
 ## 📫 Contacto
-- 💼 LinkedIn: *(pon tu link aquí)*  
-- ✉️ Email: *(opcional)*
+- 💼 LinkedIn: 
+- ✉️ Email: 
