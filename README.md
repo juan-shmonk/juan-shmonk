@@ -22,14 +22,14 @@ Me gusta aprender de forma práctica, crear laboratorios, hacer troubleshooting 
 
 ---
 
-## 🧠 Tecnologías
+## Tecnologías
 ✅ **Networking:** Cisco, Wireshark, Nmap  
 ✅ **Sistemas:** Windows / Linux  
-✅ **Programación:** C++, Python, HTML/CSS  
+✅ **Programación:** C++, Python, HTML/CSS, Java.
 
 
 
-## 🧩 Proyectos destacados
+##  Proyectos destacados
 
 - 🔐 Proyecto de redes y análisis de tráfico  
 - 🖥️ Scripts de automatización en Linux  
@@ -38,5 +38,4 @@ Me gusta aprender de forma práctica, crear laboratorios, hacer troubleshooting 
 ---
 
 ## 📫 Contacto
-- 💼 LinkedIn: 
-- ✉️ Email: 
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-miguel-leon-cupul-1a94153a1/
