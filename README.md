@@ -8,7 +8,7 @@
 - Sistemas: Windows / Linux
 - Programación: C++, Python, HTML/CSS
 <p align="center">
-  <img src="wall.png" alt="Juan Cyber Puppet Banner" width="100%">
+  <img src="wall.jpg" alt="Juan Cyber Puppet Banner" width="100%">
 </p>
 
 ## 📫 Contacto
